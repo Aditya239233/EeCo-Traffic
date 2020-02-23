@@ -1,7 +1,7 @@
 # EeCo-Traffic
 Energy Efficient Traffic Control Network
 
-Objective: Intelligent Traffoc Lights Planner to Reduce Vehicle Emissions
+Objective: Intelligent Traffic Lights Planner to Reduce Vehicle Emissions
 
 Abstract: Vehicles with petrol-driven internal combustion engines are a major source of air pollution, producing gases like CO2, CO. We present a system capable of improving traffic fluency in intersections with the goal of minimizing vehicle emissions.
 
